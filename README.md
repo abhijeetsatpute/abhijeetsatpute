@@ -11,7 +11,7 @@
 <a href="https://instagram.com/abhijeet__911/"><img align="center" alt="Abhijeet's Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	</a>
 </p>
 
--  Computer Technology Graduate.
+- :school: Computer Technology Graduate.
 - 🔭 I’m currently working on enhancing my tech stack.
 - 🌱 I’m currently learning Python, C++, Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on projects.
@@ -28,7 +28,7 @@ I have pursued my graduation degree in Computer Technology 🎓 from Nagpur Univ
 <br />
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsatpute&show_icons=true&locale=en&layout=compact" alt="abhijeetsatpute" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsatpute&show_icons=true&locale=en&layout=compact" alt="abhijeetsatpute" /></p>
 <br>
 <!--
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetsatpute&show_icons=true&locale=en" alt="abhijeetsatpute" /></p>
