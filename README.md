@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Abhijeet Satpute</h1>
+<h1 align="center">Hi there 👋, I'm Abhijeet</h1>
 
 <h3 align="center">A newbie dev</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=abhijeetsatpute&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsatpute" /> </p>
 <p align="center">
