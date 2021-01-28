@@ -12,8 +12,8 @@
 </p>
 
 - :school: Computer Technology Graduate.
-- 🔭 I’m currently working on enhancing my tech stack.
-- 🌱 I’m currently learning Python, C++, Data Structures and Algorithms.
+- 🔭 Currently working on my tech stack.
+- 🌱 Learning Python, C++, Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on projects.
 - ⚡ Fun fact: I can prolong the coffee break (;
 
