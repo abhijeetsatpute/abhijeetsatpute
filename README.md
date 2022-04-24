@@ -13,13 +13,13 @@
 
 - :school: Computer Technology Graduate.
 - 🔭 Currently working on my tech stack.
-- 🌱 Learning Python, C++, Data Structures and Algorithms.
+- 🌱 Learning MERN, Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on projects.
 - ⚡ Fun fact: I can prolong the coffee break (;
 
 
 <!--
-I have pursued my graduation degree in Computer Technology 🎓 from Nagpur University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Python Development 🕸️ and working in @TechMahindra 🤓.
+I have pursued my graduation degree in Computer Technology 🎓 from Nagpur University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into MERN stack Development 🕸️ and working in @TCS 🤓.
 <br />
 -->
 
