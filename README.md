@@ -13,7 +13,7 @@
 
 - :school: Computer Technology Graduate.
 - 🔭 Currently working on my tech stack.
-- 🌱 Learning MERN, Data Structures and Algorithms.
+- 🌱 Learning MERN Stack.
 - 👯 I’m looking to collaborate on projects.
 - ⚡ Fun fact: I can prolong the coffee break (;
 
