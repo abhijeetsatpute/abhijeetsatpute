@@ -5,9 +5,6 @@
 <a href="https://codepen.io/abhijeetsatpute" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abhijeetsatpute" height="30" width="40" /></a>
 <a href="https://twitter.com/abhijeet__911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhijeet__911" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijeetsatpute" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijeetsatpute" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fr3sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fr3sh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fr3sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="fr3sh" height="30" width="40" /></a>
- <a href="https://t.me/abhijeetsatpute" target="blank"><img align="center" alt="Abhijeet's Telegram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://instagram.com/abhijeet__911/"><img align="center" alt="Abhijeet's Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	</a>
 </p>
 
