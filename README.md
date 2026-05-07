@@ -24,8 +24,10 @@ I actively leverage **Claude Code, Gemini CLI, and GitHub Copilot** for AI-assis
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetsatpute&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetsatpute&theme=dark" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=abhijeetsatpute&theme=dark&hide_border=true" width="30%"/>
 </p>
+
 
 ---
 
