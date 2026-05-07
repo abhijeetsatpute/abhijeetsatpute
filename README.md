@@ -11,9 +11,9 @@
 
 Full Stack Engineer with 5+ years building scalable backends, cloud-native microservices, and event-driven systems across **QSR, Healthcare, and Banking** domains.
 
-I build high-performance REST APIs, serverless architectures on AWS, and real-time systems — with a strong focus on integrating **agentic AI workflows** throughout the development lifecycle.
+I build high-performance REST APIs, serverless architectures on AWS, and real-time systems with a strong focus on integrating **agentic AI workflows** throughout the development lifecycle.
 
-I actively leverage **Claude Code, Gemini CLI, and GitHub Copilot** for AI-assisted coding, and build custom **MCP integrations** to automate engineering workflows — from root cause analysis to deployment pipelines.
+I actively leverage **Claude Code, Gemini CLI, and GitHub Copilot** for AI-assisted coding, and build custom **MCP integrations** to automate and accelerate engineering workflows across the full development lifecycle.
 
 ---
 
