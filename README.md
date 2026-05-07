@@ -15,9 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetsatpute&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetsatpute&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetsatpute&theme=dark" />
 </p>
+
 
 ---
 
